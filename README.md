@@ -1,3 +1,3 @@
 # PatikaFED
 
-Patika FrontEnd Devoloper Path Tasks
+Patika Frontend Web Development Path Tasks
