@@ -2,7 +2,7 @@
 
 Patika Frontend Web Development Path Tasks
 
-## Task 1 (HTML FILE)##
+## Task 1 (HTML FILE)
 
 * ![Ekran Görüntüsü (577)](https://user-images.githubusercontent.com/61664198/132039159-3fcfe66c-f297-4ba4-afc6-d31810ed3c63.png)
 
