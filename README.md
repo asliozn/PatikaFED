@@ -11,7 +11,7 @@ Patika Frontend Web Development Path Tasks
 * ![Ekran Görüntüsü (579)](https://user-images.githubusercontent.com/61664198/132039200-02e7a4ef-202e-43a4-a3a3-49e0aafe3ee8.png)
 
 
-## Task 2 (CSS)
+## Task 2 (CSS Bookshop Site)
 
 
 * ![Ekran Görüntüsü (612)](https://user-images.githubusercontent.com/61664198/136014799-6893edbf-f569-4ed8-967b-55e6d5e8861f.png)
@@ -23,4 +23,8 @@ Patika Frontend Web Development Path Tasks
 ## Task 3 (Replica of Google Main Page(1998))
 
 * ![Ekran Görüntüsü (616)](https://user-images.githubusercontent.com/61664198/136034793-f5723592-6f94-471e-8255-66e095b1d349.png)
+
+## Task 4 (Replica of Google Main Page)
+
+* ![Ekran Görüntüsü (617)](https://user-images.githubusercontent.com/61664198/136092877-8a1491d5-e27e-4116-a958-0b2177f70ade.png)
 
