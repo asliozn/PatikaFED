@@ -1,0 +1,51 @@
+
+div{ text-align: center;}
+
+.box1{background-color: #efefefd3 ; height: 20%; margin-left: 5%; margin-right:5%;}
+
+.search {
+    width: 100%;
+    position: relative;
+    display: inline-block;
+  }
+
+  .searchTerm {
+    width: 25%;
+    padding: 5px;
+    height: 25px;
+    border-radius: 5px 5px 5px 5px;
+    outline: none;
+    color:black;
+  }
+
+  .searchButton{
+
+    display: inline-block;
+    margin-top: 10px;
+  }
+  .subButton{
+    margin-top: 10px;
+  }
+#leftbox {
+    float:left; 
+    background: rgb(156, 216, 186);
+    width:25%;
+    height:15%;
+    margin-left:5%;
+
+}
+#middlebox{
+    float:left; 
+    background: rgb(129, 202, 166);
+    width:40%;
+    height:15%;
+}
+#rightbox{
+    float:right;
+    background:rgb(112, 189, 166);
+    width:25%;
+    height:15%;
+    margin-right: 5%;
+}
+ 
+  
