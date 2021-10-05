@@ -13,6 +13,8 @@ Patika Frontend Web Development Path Tasks
 
 ## Task 2 (CSS)
 
-* ![Ekran Görüntüsü (577)](C:\Users\ASUS\Desktop\PatikaFED\Ekran Görüntüsü (612).png)
 
-* ![Ekran Görüntüsü (578)](C:\Users\ASUS\Desktop\PatikaFED\Ekran Görüntüsü (614).png)
+*![Ekran Görüntüsü (612)](https://user-images.githubusercontent.com/61664198/136014799-6893edbf-f569-4ed8-967b-55e6d5e8861f.png)
+
+
+*![Ekran Görüntüsü (614)](https://user-images.githubusercontent.com/61664198/136014806-1cc6436b-c4e9-4cbf-a97d-5783736fe5b5.png)
