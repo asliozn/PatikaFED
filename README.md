@@ -22,4 +22,5 @@ Patika Frontend Web Development Path Tasks
 
 ## Task 3 (Replica of Google Main Page(1998))
 
-* ![Ekran Görüntüsü (615)](https://user-images.githubusercontent.com/61664198/136034512-200447f3-46d4-49e3-aa5b-5757da6f2645.png)
+* ![Ekran Görüntüsü (616)](https://user-images.githubusercontent.com/61664198/136034793-f5723592-6f94-471e-8255-66e095b1d349.png)
+
